@@ -16,6 +16,11 @@ wine-classification-ml/
 ├── notebooks/
 │   └── Wine_classification_supervised_learning_upgraded.ipynb
 │
+├── datasets/
+│   └── wine_description.txt
+│   └── wine_test.csv
+│   └── wine_train.csv
+│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
