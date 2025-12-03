@@ -1,5 +1,5 @@
 
-# 📘 Wine Classification — Supervised Learning Project
+#  Wine Classification — Supervised Learning Project
 
 This repository contains a complete end-to-end supervised learning workflow for classifying wines into three categories based on their chemical properties.
 The project is implemented in a single, well-structured Jupyter Notebook located inside the notebooks/ directory.
@@ -8,7 +8,7 @@ The project is implemented in a single, well-structured Jupyter Notebook located
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 wine-classification-ml/
